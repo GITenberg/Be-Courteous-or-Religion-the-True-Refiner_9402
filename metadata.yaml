@@ -1,0 +1,31 @@
+_repo: Be-Courteous-or-Religion-the-True-Refiner_9402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maxwell, M. H. (Mary H.)
+    aliases:
+    - Maxwell, Mary H.
+    - Maxwell, Mrs. (Mary H.)
+    birthdate: 1815
+    deathdate: 1891
+    gutenberg_agent_id: '3045'
+    url: http://www.gutenberg.org/2009/agents/3045
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday school literature'
+- !lcc 'BV'
+- !lcsh 'Conduct of life -- Religious aspects'
+- !lcsh 'Methodist Church -- Juvenile literature'
+- !lcc 'BJ'
+- !lcsh 'Charity'
+- GITenberg
+title: Be Courteous, or, Religion, the True Refiner
+url: http://www.gutenberg.org/ebooks/9402
